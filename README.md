@@ -4,7 +4,7 @@ Regulatory checks for composite beams.
 ## Table of Contents
 1. [How to use COMBEAMS](#how-to-use-combeams)
 2. [COMBEAMS Program Overview](#combeams-program-overview)
-3. [About](about)
+3. [About](#about)
 
 ## How to use COMBEAMS
 COMBEAMS is a computer program written in Python for the design of shear stud connectors commonly located at the interface of steel-concrete composite beams. The _manual_ provides an overview of how the user can use the program.
